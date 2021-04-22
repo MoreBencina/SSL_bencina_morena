@@ -5,7 +5,7 @@ int main()
 {
     printf( "Hola mundo" );
 
-    getch(); /* Pausa */
+    getch(); 
 
     return 0;
 }
